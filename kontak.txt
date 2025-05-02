@@ -1,2 +1,3 @@
 joko (6546464, joko@python.com)
-yanti (yanti@python.com, 1)
+Hesti (65464, hesti@kantor.com)
+Andi (576876, python@gmail.com)
